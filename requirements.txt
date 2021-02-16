@@ -1,0 +1,7 @@
+numpy
+pandas
+plotly
+scikit-learn
+streamlit==0.64
+seaborn
+statsmodels
